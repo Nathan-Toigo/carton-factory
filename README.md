@@ -77,6 +77,3 @@ Vous pouvez tester le système en demandant à l'IA :
 - *"Crée une commande pour le client IKEA (2000 boîtes)."*
 - *"La machine BOBST L1 fait un bruit de claquement anormal, que dois-je faire selon la doc ?"*
 - *"Met l'Imprimeuse Couleur Gamma en maintenance."*
-
----
-*Ce projet a été généré dans le cadre d'un PoC d'Architecture d'Entreprise.*
